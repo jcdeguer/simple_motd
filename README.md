@@ -5,8 +5,8 @@ Puppet module to generate a motd, and be reply on all servers using Foreman.
 1. [Overview](#overview)
 2. [Module Description - What the module does and why it is useful](#module-description)
 3. [Setup - The basics of getting started with simple_motd](#setup)
-    * [What simple_nodejs affects](#what-simple_motd-affects)
-    * [Beginning with simple_nodejs](#beginning-with-simple_motd)
+    * [What simple_motd affects](#what-simple_motd-affects)
+    * [Beginning with simple_motd](#beginning-with-simple_motd)
 4. [Limitations - OS compatibility, etc.](#limitations)
 
 ### What simple_motd affects
