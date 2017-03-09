@@ -1,0 +1,13 @@
+{
+  "name": "jcdeguer-simple_motd",
+  "version": "0.1.0",
+  "author": "jcdeguer",
+  "summary": "It's a Puppet module to generate a motd, and be reply on all servers using Foreman.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/jcdeguer/simple_motd",
+  "project_page": "https://github.com/jcdeguer/simple_motd",
+  "issues_url": "https://github.com/jcdeguer/simple_motd/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
