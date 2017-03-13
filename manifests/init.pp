@@ -7,12 +7,7 @@
 # === Variables
 # === Examples
 # === Authors
-#
-
-#
-# === Copyright
-#
-# Copyright 2017 Your name here, unless otherwise noted.
+# Author Name Juan Carlos <juan.deguer@gmail.com>
 #
 class simple_motd (
   $contenido = undef,
